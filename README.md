@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Stasieniec
-- I'm a student of AI at Vrije University Amsterdam
-- 👀 I’m interested in artificial intelligence and philosophy
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on something that could give me experience and be fun to work on
-- 📫 How to reach me: wasilewski.sf@gmail.com
+Stanisław Wasilewski
+Student of Artificial Intelligence at Vrije University Amsterdam
+Contact me at wasilewski.sf@gmail.com
+
+My stuff:
+aristosites.com
+badgpt.com
 
 <!---
 Stasieniec/Stasieniec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
