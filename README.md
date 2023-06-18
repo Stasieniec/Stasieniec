@@ -1,4 +1,4 @@
-Stanisław Wasilewski
+Stanisław Wasilewski \n
 Student of Artificial Intelligence at Vrije University Amsterdam
 Contact me at wasilewski.sf@gmail.com
 
