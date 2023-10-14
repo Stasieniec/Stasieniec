@@ -6,7 +6,7 @@ Contact me at wasilewski.sf@gmail.com
 
 # My stuff:  
 [Aristosites](aristosites.com)  
-badgpt.com  
+[bad GPT](badgpt.com)  
  
 <!---
 Stasieniec/Stasieniec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
