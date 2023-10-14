@@ -5,7 +5,7 @@ Student of Artificial Intelligence at Vrije University Amsterdam
 Contact me at wasilewski.sf@gmail.com  
 
 # My stuff:  
-[Aristosites] (aristosites.com)  
+[Aristosites](aristosites.com)  
 badgpt.com  
  
 <!---
