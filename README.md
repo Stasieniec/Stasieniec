@@ -1,9 +1,12 @@
-
 # About me
 Stanisław Wasilewski  
 Student of Artificial Intelligence at Vrije University Amsterdam  
-Contact me at wasilewski.sf@gmail.com  
+TA at VU Amsterdam    
 
+### Contact
+Personal email: wasilewski.sf@gmail.com    
+Aristosites: contact@aristosites.com    
+  
 # My stuff:  
 [Aristosites](aristosites.com)  
 [bad GPT](badgpt.com)  
