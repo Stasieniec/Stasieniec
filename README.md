@@ -3,7 +3,7 @@
 **AI Engineer** at [Tasteray](https://tasteray.com)    
 **Honours AI Student** at Vrije Universiteit Amsterdam    
     
-**Organizing an AI Law workshop at the European Youth Event** with [Futurist Law Lab](https://futuristlawlab.com)    
+Organizing an AI Law workshop at the European Youth Event with [Futurist Law Lab](https://futuristlawlab.com)    
     
 Exploring the intersection of machine learning, reasoning, and design.  
 Building tools, prototypes, and occasionally absurd things.
