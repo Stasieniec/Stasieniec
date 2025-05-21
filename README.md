@@ -1,18 +1,26 @@
-# About me
+# Stanisław Wasilewski
 
-Stanisław Wasilewski  
+**AI Engineer** at [Tasteray](https://tasteray.com)  
+**Honours AI Student** at Vrije Universiteit Amsterdam
 
-AI Engineer at [Tasteray](https://tasteray.com)  
-Student of Artificial Intelligence at Vrije University Amsterdam (Honours)    
+Exploring the intersection of machine learning, reasoning, and design.  
+Building tools, prototypes, and occasionally absurd things.
 
-### Contact
-Personal email: wasilewski.sf@gmail.com     
-Website: [swasilewski.com](https://swasilewski.com)  
-  
-# My stuff:  
-[Futurist Law Lab](https://futuristlawlab.com)    
-[Maluj z papieżem](https://malujzpapiezem.pl)
-<!---
-Stasieniec/Stasieniec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Portfolio →](https://swasilewski.com/projects)  
+[Website →](https://swasilewski.com)
+
+---
+
+## Some of my projects
+
+- [Futurist Law Lab](https://futuristlawlab.com)
+    
+- [Maluj z papieżem](https://malujzpapiezem.pl)
+    
+
+---
+
+## Contact
+
+**Email**: wasilewski.sf@gmail.com  
+**Web**: [swasilewski.com](https://swasilewski.com)
