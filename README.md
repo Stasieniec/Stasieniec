@@ -1,8 +1,10 @@
 # Stanisław Wasilewski
 
-**AI Engineer** at [Tasteray](https://tasteray.com)  
-**Honours AI Student** at Vrije Universiteit Amsterdam
-
+**AI Engineer** at [Tasteray](https://tasteray.com)    
+**Honours AI Student** at Vrije Universiteit Amsterdam    
+    
+**Organizing an AI Law workshop at the European Youth Event** with [Futurist Law Lab](https://futuristlawlab.com)    
+    
 Exploring the intersection of machine learning, reasoning, and design.  
 Building tools, prototypes, and occasionally absurd things.
 
@@ -13,8 +15,10 @@ Building tools, prototypes, and occasionally absurd things.
 
 ## Some of my projects
 
-- [Futurist Law Lab](https://futuristlawlab.com)
-    
+- [Oratoria](elevenlabs-hackathon) - Hackathon project for Elevenlabs Hackathon, conversational coach
+
+- [Legal Frontier Hackathon](legal-frontier-hackathon) - Hakcathon project for Frontier Legal Hackathon (got the first place!)
+
 - [Maluj z papieżem](https://malujzpapiezem.pl)
     
 
