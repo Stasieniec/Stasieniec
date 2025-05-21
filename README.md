@@ -10,7 +10,7 @@ Personal email: wasilewski.sf@gmail.com
 Website: [swasilewski.com](https://swasilewski.com)  
   
 # My stuff:  
-[Futurist Law Lab](https://futuristlawlab.com)
+[Futurist Law Lab](https://futuristlawlab.com)    
 [Maluj z papieżem](https://malujzpapiezem.pl)
 <!---
 Stasieniec/Stasieniec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
