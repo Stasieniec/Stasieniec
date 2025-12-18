@@ -4,7 +4,8 @@
 **AI MSc** at University of Amsterdam (started 2025)    
 **AI BSc (Honours)** Vrije Universiteit Amsterdam (graduated 2025)    
     
-Organizing an AI Law workshop at the European Youth Event with [Futurist Law Lab](https://futuristlawlab.com)    
+Managing tech side of [Futurist Law Lab](https://futuristlawlab.com) and organizing educational events about legal tech.  
+Organising [Pixel Riot](https://pixelriot.org) - Creative Tech Hackathon with over 5,000 participants in 2025 edition
     
 Exploring the intersection of machine learning, reasoning, and design.  
 Building tools, prototypes, and occasionally absurd things.
