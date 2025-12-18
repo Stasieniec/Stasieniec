@@ -1,8 +1,8 @@
 # Stanisław Wasilewski
 
 **AI Engineer** at [Tasteray](https://tasteray.com)    
-**AI MSc** at University of Amsterdam    
-**AI BSc (Honours)** Vrije Universiteit Amsterdam    
+**AI MSc** at University of Amsterdam (started 2025)    
+**AI BSc (Honours)** Vrije Universiteit Amsterdam (graduated 2025)    
     
 Organizing an AI Law workshop at the European Youth Event with [Futurist Law Lab](https://futuristlawlab.com)    
     
@@ -17,6 +17,10 @@ Building tools, prototypes, and occasionally absurd things.
 ## Some of my projects
 
 - [Oratoria](elevenlabs-hackathon) - Hackathon project for Elevenlabs Hackathon, conversational coach
+
+- [GenSnitch](https://gensnitch.com) - Generative AI images detection browser extension    
+
+- [RealPLS](realpls.com) - Image manipulation detection tool    
 
 - [Legal Frontier Hackathon](legal-frontier-hackathon) - Hakcathon project for Frontier Legal Hackathon (got the first place!)
 
