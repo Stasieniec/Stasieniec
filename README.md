@@ -1,7 +1,8 @@
 # Stanisław Wasilewski
 
 **AI Engineer** at [Tasteray](https://tasteray.com)    
-**Honours AI Student** at Vrije Universiteit Amsterdam    
+**AI MSc** at University of Amsterdam    
+**AI BSc (Honours)** Vrije Universiteit Amsterdam    
     
 Organizing an AI Law workshop at the European Youth Event with [Futurist Law Lab](https://futuristlawlab.com)    
     
